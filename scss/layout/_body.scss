@@ -1,0 +1,36 @@
+// /*----GRID----*/
+// $my-custom-grid: (
+//   columns: 12,
+//   gutter: 20px,
+//   media: 1200px,
+//   color: rgba(#00d4ff, 0.25),
+//   direction: ltr,
+// );
+//
+// $md-grid: (
+// columns: 12,
+// gutter: 40px,
+// media: 800px,
+// );
+//
+// $lg-grid: (
+// columns: 12,
+// gutter: 40px,
+// media: 1000px,
+// );
+//
+//
+// .row1 {
+//   @include grid-column(12);
+//
+//   @include grid-media($md-grid) {
+//     @include grid-column(6);
+//
+//     &.row1 {
+//       @include grid-media ($lg-grid) {
+//         @include grid-column(4);
+//
+//     }
+//   }
+// }
+}

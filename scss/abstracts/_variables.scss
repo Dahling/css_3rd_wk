@@ -2,6 +2,33 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
+//colors
+$color-list: (
+  color-primary: #ff69b4,
+  color-secondary: #32cd32,
+
+);
+
+
+// $colors: (
+$color-primary: (
+  color-hex: map-get($color-list, color-primary),
+  color-name: "Hot Pink",
+  color-rgb: "255 / 105 / 180",
+  color-hsl: "330deg / 100% / 71%",
+  light: lighten(map-get($color-list, color-primary), 5%),
+  dark: darken(map-get($color-list, color-primary), 5%)
+);
+
+$color-secondary: (
+  color-hex: map-get($color-list, color-secondary),
+  color-name: "Lime Green",
+  color-rgb: "50 / 205 / 50",
+  color-hsl: "120deg / 61% / 5%",
+  light: lighten(map-get($color-list, color-secondary), 5%),
+  dark: darken(map-get($color-list, color-secondary), 5%)
+);
+
 /// Regular font family
 /// @type List
 $text-font-stack: "Open Sans", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default
