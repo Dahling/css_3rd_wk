@@ -33,10 +33,11 @@ _If you have any tips or tricks: SweetlySurprised@gmail.com_
 
 ## Technologies Used
 
-_HTML & CSS_
+_HTML_
+_CSS_
+_BOOTSTRAP_
 _SASS_
-_BOURBAN_
-_NEAT_
+
 
 ### License
 
