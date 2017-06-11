@@ -113,4 +113,12 @@ a {
   font-family: 'Parisienne', cursive;
   font-size: 35px; }
 
+@media only screen and (max-width: 600px) {
+  .jumbotron h1 {
+    text-align: center; }
+
+  .row, .row1 {
+    margin: auto;
+    text-align: left; } }
+
 /*# sourceMappingURL=styles.css.map */
