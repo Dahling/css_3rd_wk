@@ -111,7 +111,7 @@ img {
 a {
   /*---EXTEND---*/
   font-family: 'Parisienne', cursive;
-  font-size: 35px; }
+  font-size: 34px; }
 
 @media only screen and (max-width: 600px) {
   .jumbotron h1 {

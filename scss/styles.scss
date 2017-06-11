@@ -122,7 +122,6 @@ img {
   text-align: justify;
   background-color: white;
   border: 5px solid $primary-color;
-  // border-radius: 25px;
   padding: 5px;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
@@ -130,7 +129,6 @@ img {
 
 .row1 {
   @extend .row;
-  // height: 700px;
   width: 100%;
 }
 
@@ -174,7 +172,7 @@ img {
 a {
   @extend .header-links; /*---EXTEND---*/
   font-family: 'Parisienne', cursive;
-  font-size: 35px;
+  font-size: 34px;
 }
 
 @media only screen and (max-width: 600px) {
