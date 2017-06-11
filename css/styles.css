@@ -52,7 +52,7 @@ body {
   background-position: center;
   height: 700px;
   opacity: none;
-  margin-top: 50px; }
+  margin-top: 10px; }
 
 .us {
   background-image: url("../img/MomMe.png");
@@ -61,7 +61,8 @@ body {
   border-radius: 15px 15px;
   background-position: center;
   height: 500px;
-  margin-top: 50px; }
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 img {
   width: 50%;
@@ -75,7 +76,7 @@ img {
   border: 5px solid #ff69b4;
   padding: 5px;
   font-family: 'Roboto', sans-serif;
-  font-size: 25px; }
+  font-size: 20px; }
 
 .row1 {
   width: 100%; }

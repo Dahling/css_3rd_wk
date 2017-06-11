@@ -101,14 +101,15 @@ font-family: 'Parisienne', cursive;
   @include rowPicture;
   height: 700px;
   opacity: none;
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 .us {
   background-image: url("../img/MomMe.png");
   @include rowPicture;
   height: 500px;
-  margin-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 img {
@@ -125,7 +126,7 @@ img {
   // border-radius: 25px;
   padding: 5px;
   font-family: 'Roboto', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .row1 {
