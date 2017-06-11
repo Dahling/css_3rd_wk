@@ -1,7 +1,47 @@
-# Main file
+# _Tribute Page_
 
-The main file (usually labelled `main.scss`) should be the only Sass file from the whole code base not to begin with an underscore. This file should not contain anything but `@import` and comments.
+#### _Week Seven Epicodus Project (Week 3 of CSS Track) 6.9.2017_
 
-*Note: when using [Eyeglass](https://github.com/sass-eyeglass/eyeglass) for distribution, it might be a fine idea to name this file `index.scss` rather than `main.scss` in order to stick to [Eyeglass modules specifications](https://github.com/sass-eyeglass/eyeglass#writing-an-eyeglass-module-with-sass-files). See [#21](https://github.com/HugoGiraudel/sass-boilerplate/issues/21) for reference.*
+#### By _**Jenna Cooper**_
 
-Reference: [Sass Guidelines](http://sass-guidelin.es/) > [Architecture](http://sass-guidelin.es/#architecture) > [Main file](http://sass-guidelin.es/#main-file)
+## Description
+
+This is a tribute page to my mom, using Bootstrap and SASS.
+__
+
+
+
+
+## Setup/Installation Requirements
+
+* _Clone this Repository onto your Desktop, via the "Clone or Download" button on GitHub._
+* _Once downloaded, click the index.html._
+* _Open it up, via your favorite browser (...I like Firefox, but apparently it's not one of the cool kids...)._
+* _Open any of the files up, via a program like Atom, in order to see the code or play around with it._
+* _Have a lovely day_
+
+## RawGit Link
+[My Mom](https://rawgit.com/Dahling/css_3rd_wk/master/index.html)
+
+
+## Known Bugs
+
+I'm not sure there's any sort of bug; but, if there is, I hope it's a ladybug.
+
+## Support and contact details
+
+_If you have any tips or tricks: SweetlySurprised@gmail.com_
+
+## Technologies Used
+
+_HTML_
+_CSS_
+_BOOTSTRAP_
+_SASS_
+
+
+### License
+
+*MIT License*
+
+Copyright (c) 2017 **_Jenna Cooper_**
